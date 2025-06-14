@@ -36,10 +36,10 @@ public class Main {
                     }
                     break;
                 case "0":
-                    System.out.println("👋 Programa finalizado.");
+                    System.out.println("Programa finalizado.");
                     return;
                 default:
-                    System.out.println("⚠️ Opción no válida.");
+                    System.out.println("Opción no válida.");
             }
         }
     }
